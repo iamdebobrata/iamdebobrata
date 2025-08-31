@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Debobrata.<br>👀 I’m interested in Software Development  &  Data science.<br>🌱 I’m currently pursuing MCA.<br>💞️ I’m looking to collaborate on software or Data Science related project<br>📫 How to reach me : Linkedin: iamdebobratapaul
+👋 Hi, I’m Debobrata.<br>👀 I’m interested in Software Development  &  Data science. I’m looking to collaborate on software or Data Science related project<br>📫 How to reach me : Linkedin: iamdebobratapaul
 
 
 ## 🌐 Socials:
